@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/neuman
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lcfrs.org
+  * I am neuman (https://keybase.io/neuman) on keybase.
+  * I have a public key with fingerprint 56E1 0C04 5C9C 1FDD 5F33  67F8 C644 D3A1 F6BD EABD
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206ee51b2defdeaf57a5b0a1d34388674f7d0f256a470a14fc3eda599e4e90903c0a",
+      "fingerprint": "56e10c045c9c1fdd5f3367f8c644d3a1f6bdeabd",
+      "host": "keybase.io",
+      "key_id": "c644d3a1f6bdeabd",
+      "kid": "010101b9ee65b7dc60c629167046d26705d20c926eeadceda089a0cb2f117ed78ab00a",
+      "uid": "dbccb15a197f0c6b66ba6d3e3e714019",
+      "username": "neuman"
+    },
+    "service": {
+      "hostname": "lcfrs.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1712903600,
+  "expire_in": 157680000,
+  "prev": "1198f7bf6a9bed97256408da3752a97c69dfb8152e650b864ace9568f5aed609",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNqAnicbVJrTFRHGF3Kq6xRqWmAglW5wVoo4NzX3L2ArQoSmwAVSTQB6nbunbnL
+Cuxu7y7vt7FqRVrFIkh/FJMG+iJKozw0UEVLY6VSHsbYQixYA61IKwpoadPOEv3X
+zI8vc+acM+f7Zq4s9zQYPfoShk/Nd//e7XHt0vE8gxZ040wJo9hxERNTwmSTpUJy
+MHG6zNlWzMQwgOUAJERkFQ4TDROkiRISFYBYzAu8yQQlQZMw0DgRIkGisKCpPMFI
+lGUiEBnIgFcBYiIZzWqzEN2hW20uaitCwgIVCKIqq6yGsajxPJQ0kwoFAfOI1aBC
+71IwFWbZnW4FDacgJ4m22ilGN+aleP/Df5bbvRSZECgqElYhUCEns1ACAsQcLSLm
+gCpztDeEVRoYmGQEVIXTWFYiWDIhBSzlzluyw4qqKqyIWFnSqJMCoYIg5glPJFYA
+rOwmOoluQ7mEsm0kLxfZmLJIhmL5VpW4x+ru4+l5jqrpzmi7bqEyh2532VV7DoWz
+XC6HM8YtcxU53LwCopifOpgVqw3TEVJFPtGdVruNiWEpU3VZ3ZasxHJ01BCASIYU
+Oqw6MVvdDFGCJgDcqEMn+dSSZWWTJikaRLJCsCzRdxOACSNeEjkkSyqUsaaYWJGj
+cwOKCQpIJbIITZqICIbA3aiTvGuzU29IcyIL9XRaLTbkytMJU9Z7KdPL4GE0+Hg/
+5/5bBqOf/7MfF97tb6jHMMwS++pi+d6KdSdKDw03BLTd+dYYlx5x9/SP/a8rv4RV
+Ol76yNt71/1zsWkhHxRXeRZExOkRNTdTcu6VDE2diRE6Q3obmdeSy06k93RljZLK
+LStHMkb/JS3OpOrf5NIVt/9EYvv2+Hsgvzh5y0xHoEdF7Umu+KeqY2WTHUlBzS3n
+H0aOtDzK3VSv7DwV3dj4/RtdnfNpew/kXw/lvtnUNFv9Yah/euu6TuXFw9m7z19v
+SfNsMKx5hRRMmA9GGS4MTI2fbQiOGru2qubJhWVlyeklD1xrZ0un8KMhvttnWeHs
+5cDNe973HTz9he9Xb/rWfb366PA0ACsfDG3tx5+81TMXnTmc63zSjkZ9egVDRldQ
+YSAMsIQmreVL0idzMu4nDhVnXo1qM6T0Va1KrR3x6Ri8fbJqvmFHStNncxtbQzZO
+7p+Wgo7H1afuq1/cqR/yuzxlHKjr2XPDMnG3qOXTbYfDzfEwpaHZuWH14/LG6pSc
+xG21waRi0M+cWpmy/+PvTP8UPKw58EPynbeTXk7sXQzbkKkDrldQFrX15QULK1pG
+Mr/8dWFHwr6bgfv+OuthHA+3XbxyjH+hsG13/HBznDg2GtgUvLV9evTgAjfzd8LV
+uj92vYOmf668OLD9vXNlj8dmLH3LWa9b42hyffRRr7kJY0V5f8iwT/yRWx4BrQli
+bGjG5ufXfP4fOI6/yw==
+=KC3v
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/neuman
+
+==================================================================
